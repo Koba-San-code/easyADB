@@ -1,0 +1,35 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+adb_simple.log
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Android packages
+*.apk
+*.apks
+*.aab
+
+# Generated data
+Packages_states.txt
+packages_stack.txt
+packages_export_*.txt
+
+# Temp files
+*.tmp
+*_*.tmp
+
+# Unwanted project dirs
+.github/
+screens/
+

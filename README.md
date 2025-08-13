@@ -6,7 +6,8 @@
 
 A minimal console tool for daily Android device management via ADB with optional scrcpy integration. Features package management with state database and undo functionality.
 
-**Available languages:** [English](README.md) • [Русский](README_ru.md)
+**Available languages:** [English](README.md) • [Русский](README_ru.md)  
+**Full documentation:** [English](Documentation_EN.md) • [Русский](Documentetion.md)
 
 ## Features
 
